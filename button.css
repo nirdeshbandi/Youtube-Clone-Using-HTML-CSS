@@ -1,0 +1,90 @@
+.subscribe {
+    background-color: rgb(200, 0, 0);
+    color:white;
+    border: none;
+    padding-left: 16px;
+   padding-top: 10px;
+   padding-right:16px;
+   padding-bottom: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 1s;
+    vertical-align: top;
+}
+.subscribe:hover{
+    opacity: 0.8;
+}
+.subscribe:active{
+   opacity: 0.5;
+}
+.join {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(67, 67, 201);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(67, 67, 201);;
+    border-radius: 2px;
+   padding-left: 16px;
+   padding-top: 9px;
+   padding-right:16px;
+   padding-bottom: 9px;
+    cursor: pointer;
+   
+    vertical-align: top;
+    
+}
+.join:hover{
+    background-color:rgb(67, 67, 201);
+    color:white;
+    transition: opacity 1s,background-color 0.15s;
+
+}
+.join:active{
+   opacity: 0.5;
+}
+.twitter {
+    background-color: rgb(80, 197, 224);
+    border-color: none;
+    color: white;
+    border-radius: 20px;
+    padding-left: 16px;
+   padding-top: 9px;
+   padding-right:16px;
+   padding-bottom: 9px;
+    cursor: pointer;
+    border: none;
+    transition:box-shadow 0.15;
+    vertical-align: top;
+    margin-left: 8px;
+  
+    
+}
+.twitter:hover{
+    
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.15);
+}
+.Request {
+    background-color: black;
+    border-color: none;
+    color: white;
+    border-radius: none;
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+.Add-button{
+    
+
+background-color: rgb(255, 216, 20);
+border: none;
+height: 30px;
+width: 140px;
+border-radius: 15px;
+cursor: pointer;
+}
+
