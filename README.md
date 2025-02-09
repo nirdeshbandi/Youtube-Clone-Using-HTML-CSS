@@ -1,2 +1,2 @@
 # Youtube-Clone-Using-HTML-CSS
-I have developed a clone for Youtube using HTML,CSS 
+I have created a YouTube Clone using HTML,CSS 
